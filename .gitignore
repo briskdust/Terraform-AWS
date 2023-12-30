@@ -1,0 +1,8 @@
+terraform.tfvars
+.terraform
+
+.vscode
+.idea
+.git
+terraform.tfstate
+terraform.tfstate.backup

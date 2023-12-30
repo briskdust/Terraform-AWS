@@ -6,3 +6,5 @@ terraform.tfvars
 .git
 terraform.tfstate
 terraform.tfstate.backup
+
+secrets
